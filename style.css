@@ -211,6 +211,30 @@ margin-bottom: 10px;
     height: 468px;
     background-color: white;
 }
+.featurenews{
+    height: 468px;
+    background-color: white;
+}
+.featurel{
+    height: 230px;
+    width: 814px;
+    background-color: white;
+
+}
+.flead1{
+    height: 230px;
+    width: 402px;
+    background-color: red;
+    float: left;
+}
+.flead2
+{
+    height: 230px;
+    width: 402px;
+    background-color: rgb(66, 21, 21);
+    float: left;
+
+}
 .footerContent{
     height: 250px;
     width: 1180px;
